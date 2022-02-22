@@ -1,2 +1,2 @@
 # ScratchCardLineRenderer
-Use Line Renderer with masks 
+Use Line Renderer with spritemask 
